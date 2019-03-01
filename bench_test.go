@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/vmihailenco/msgpack"
+	"github.com/Beeketing/msgpack"
 )
 
 func BenchmarkDiscard(b *testing.B) {

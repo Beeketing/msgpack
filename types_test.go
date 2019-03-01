@@ -11,8 +11,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/vmihailenco/msgpack"
-	"github.com/vmihailenco/msgpack/codes"
+	"github.com/Beeketing/msgpack"
+	"github.com/Beeketing/msgpack/codes"
 )
 
 //------------------------------------------------------------------------------
